@@ -1,0 +1,22 @@
+.filter{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.filtyear{
+  color: white;
+  margin-left: 15px;
+  font-style: italic;
+}
+
+.saves{
+  margin-right: 15px;
+}
+
+select{
+  border: none;
+  outline: none;
+  padding: 10px 0px;
+  border-radius: 5px;
+}
